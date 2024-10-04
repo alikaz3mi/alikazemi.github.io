@@ -1,6 +1,3 @@
-To craft a product manager-style portfolio based on your CV and recent works on GitHub, I'll follow the guidance from the provided articles and organize your portfolio in a clear, concise manner that highlights your leadership, product development, and technological achievements.
-
----
 
 # Ali Kazemi - Product Manager & CTO Portfolio
 
