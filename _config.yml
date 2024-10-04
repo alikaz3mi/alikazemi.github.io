@@ -1,1 +1,33 @@
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
+
+title: "Ali Kazemi - Product Manager & CTO Portfolio"
+description: "AI/NLP Specialist with expertise in product development, team leadership, and delivering impactful AI-driven solutions."
+url: "https://alikaz3mi.github.io"
+baseurl: ""
+google_analytics: G-Z2ML24XJTP
+
+header_pages:
+  - about.md
+  - projects.md
+
+author:
+  name: Ali Kazemi
+  email: alikazemi@ieee.org
+  github: https://github.com/alikaz3mi
+  linkedin: https://www.linkedin.com/in/ali-kazemi-199510/
+
+projects:
+  - title: "Family Accounting"
+    description: "A family-oriented accounting system built with FastAPI, Telegram, and Streamlit."
+    url: "https://github.com/alikaz3mi/family-accounting"
+    image: "assets/images/family-accounting.png"
+  - title: "Jira Telegram Bot"
+    description: "A bot integrated with Jira for task automation and management."
+    url: "https://github.com/alikaz3mi/jira-telegram-bot"
+    image: "assets/images/jira-telegram-bot.png"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
