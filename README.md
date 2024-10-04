@@ -1,125 +1,85 @@
-# alikazemi.github.io
+To craft a product manager-style portfolio based on your CV and recent works on GitHub, I'll follow the guidance from the provided articles and organize your portfolio in a clear, concise manner that highlights your leadership, product development, and technological achievements.
+
 ---
-layout: default
+
+# Ali Kazemi - Product Manager & CTO Portfolio
+
+**Chief Technology Officer at SensoMatt AI**  
+[LinkedIn](https://www.linkedin.com/in/ali-kazemi-199510/) | [GitHub](https://github.com/alikaz3mi) | [Email](mailto:alikazemi@ieee.org)
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
-[Link to another page](./another-page.html).
+I am an experienced AI professional with a product management mindset, specializing in developing and deploying AI-driven solutions. I have successfully led cross-functional teams, brought innovative AI products to market, and optimized processes for scalability and efficiency. With a focus on aligning business objectives with technical roadmaps, I aim to deliver impactful, data-driven solutions that accelerate business growth.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Key Skills
 
-# Header 1
+- **Product Management**: Strategic product vision, project lifecycle management, agile methodologies.
+- **AI & NLP Expertise**: Advanced knowledge in natural language processing, computer vision, and machine learning.
+- **Technical Leadership**: Leading cross-functional teams, mentoring engineers, and driving product development.
+- **Deployment & Scalability**: Expertise in microservice architectures, CI/CD processes, and scalable AI solutions.
+- **Cloud & Edge Platforms**: Skilled in AWS, Docker, and GPU deployment for high-performance applications.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Featured Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### [Family Accounting](https://github.com/alikaz3mi/family-accounting)
 
-### Header 3
+**Project Type**: Group financial management platform  
+**Role**: Product Owner & Developer  
+**Objective**: Create a platform for families to manage loans, payments, and member roles through an easy-to-use interface available on Telegram and Streamlit. The project allows family members to register, categorize, and manage finances collectively.  
+**Technologies**: Python, FastAPI, PostgreSQL, Redis, Streamlit, Langchain (OpenAI Integration)  
+**Outcome**: Delivered a scalable product with clean architecture that supports real-time family accounting and financial management through Telegram. Expanded the project to include SMS authentication, ensuring secure access for all users.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Challenges & Solutions**:
+- **Challenge**: Ensuring a smooth user experience for family members with varied technical skills.
+- **Solution**: Developed an intuitive interface and integrated OpenAI-based assistance for easier interactions, resulting in higher user engagement.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+### [Jira Telegram Bot](https://github.com/alikaz3mi/jira-telegram-bot)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Project Type**: Productivity Tool  
+**Role**: Product Owner & Developer  
+**Objective**: Design and implement a Telegram bot that enables seamless interaction with Jira, automating task creation, updates, and monitoring for users directly from Telegram.  
+**Technologies**: Python, Jira API, Python Telegram Bot  
+**Outcome**: The bot was developed to streamline task management, reducing the need for Jira’s interface. It improved efficiency for users managing multiple projects, as tasks could be created and updated in real-time through Telegram.
 
-##### Header 5
+**Challenges & Solutions**:
+- **Challenge**: Simplifying complex Jira tasks for non-technical users.
+- **Solution**: Created a straightforward command structure within the Telegram bot, allowing users to manage tasks with minimal input.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Major Accomplishments
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### SensoMatt AI - **Chief Technology Officer (July 2021 – Present)**
 
-### There's a horizontal rule below this.
+- **Product Development**: Spearheaded the development of a **license plate recognition system**, reducing latency by 75% and improving FPS performance, making it deployable on low-power edge devices.
+- **Leadership**: Managed a cross-functional team (AI engineers, backend developers, UI/UX designers) to develop and launch **Vanguard**, a comprehensive AI-based surveillance product, reducing production costs by 20% while delivering 15% under budget.
+- **Innovation**: Developed and integrated three advanced AI pipelines (face recognition, people counting, and license plate recognition) into the **Vanguard** system, improving overall efficiency by 35%.
+- **Scalability**: Transitioned the system architecture to microservices, improving deployment speeds by 60%, and enabled horizontal scalability for future growth.
 
-* * *
+---
 
-### Here is an unordered list:
+## Approach to Product Management
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+My approach to product management is data-driven and user-focused. I prioritize aligning AI capabilities with real business needs, ensuring the products I oversee are both technically innovative and impactful for end-users. With a foundation in agile methodologies, I lead teams through iterative development cycles, ensuring continuous feedback and improvement.
 
-### And an ordered list:
+### Core Focus Areas:
+- **Customer-Centric Design**: Understanding and translating user needs into actionable product features.
+- **Efficiency Optimization**: Streamlining workflows and improving system performance.
+- **Scalable Solutions**: Building products that grow with the business, designed for long-term success.
+- **Cross-functional leadership**: Encouraging collaboration between engineering, design, and business teams to deliver cohesive products.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## Contact Me
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Whether you’re looking for a technology leader to bring innovative AI products to life, or need a consultant to optimize your current solutions, I’d love to connect.
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
+[Email](mailto:alikazemi@ieee.org) | [LinkedIn](https://www.linkedin.com/in/ali-kazemi-199510/) | [GitHub](https://github.com/alikaz3mi)
