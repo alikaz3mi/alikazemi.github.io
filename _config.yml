@@ -1,5 +1,4 @@
-remote_theme: beautiful-jekyll
-
+theme: jekyll-theme-cayman
 
 title: "Ali Kazemi - Product Manager & CTO Portfolio"
 description: "AI/NLP Specialist with expertise in product development, team leadership, and delivering impactful AI-driven solutions."
